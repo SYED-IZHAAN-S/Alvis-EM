@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Sansita&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Sansita', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+   
+    background-image: url("C:/MyCode/Web/EMimages/decorated-wedding-hall-with-candles-round-tables-centerpieces.jpg");
+    background-color: rgba(0,0,0,0.0);
+    background-blend-mode: multiply;
+    background-size:cover;
+ 
+
+}
+
+header{
+
+  
+    height: 86;
+    background-color: rgba(0,0,0,0.5);
+    text-align: right;
+}
+
+
+
+.logo{
+       height:79;
+       margin-left: 55;
+       margin-top: 0;
+       padding-top: 0;
+       
+}
+
+
+
+.navsec{
+         padding-top:0;
+         padding-bottom: 0;
+  
+
+}
+
+.top{
+    height: 86;
+    padding-top: 29;
+    padding-bottom: 0;
+    overflow-x:hidden;
+    white-space:nowrap; 
+}
+
+li{ 
+   display:inline;
+   padding-top:15;
+   padding-bottom:18 ;
+   padding-right:45 ;
+   padding-left:45 ;
+   margin-left:23;
+   font-size:larger;
+   background-color: #FAFCDB;
+   color: #734488;
+
+}  
+
+.book{
+     background-color: #492645;
+     color: rgb(255, 255, 255);
+     margin-right: 85;
+}
+
+section{
+  
+   height:1200;
+ 
+     
+}
+
+.note1{
+         
+
+    height:500;
+    width: 300;
+    background-color:#FAFCDB ;
+    margin-left: 30;
+    padding-bottom: 20;
+   
+
+}
+
+
+.purpback{
+  
+    height: 500;
+    padding-bottom:20;
+    background-color: #492645;
+    box-shadow: 0px 0px 15px 5px;
+
+}
+
+.sec1{
+
+
+    padding-top: 500;
+    padding-bottom: 100;
+
+
+}
