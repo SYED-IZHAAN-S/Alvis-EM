@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita&display=swap');
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Sansita', sans-serif;
+}
+body{
+    background-color: rgba(0,0,0,0.0);
+    background-blend-mode: multiply;
+    background-size:cover;
+}
+header{
+    height: 86px;
+    background-color: rgba(0,0,0,0.5);
+    text-align: right;
+}
+.logo{
+
+    height: 79px;;
+    margin-left: 55px;
+    /* margin-top: 0px;
+    padding-top: 0px; */
+}
+
+.top{
+    height: 86px;
+    padding-top: 29px;
+    /* padding-bottom: 0px; */
+    overflow-x:hidden;
+    white-space:nowrap; 
+}
+li{ 
+    list-style: none;
+    display:inline;
+    padding-top:15px;
+    padding-bottom:18px;
+    padding-right:45px ;
+    padding-left:45px ;
+    margin-left:23px;
+    font: size 25px;
+    background: #FAFCDB;
+    color:#734488;
+}   
+li:hover{
+    background-color: #492645;
+    color: #fff;
+    transition: 0.5;
+}
+.book{
+    margin-right:30px;
+}
+
+section{
+  height:1200px;   
+ }
+.container{
+     position:relative;
+     height:500px;
+     width:1000px;
+     top: 500px;
+     bottom: 100px;
+}
+.bg{
+    height: 500px;
+    width: 1400px;
+    padding-bottom:20px;
+    background-color: #492645;
+    box-shadow: 0px 0px 15px 5px;
+}
+.rec{
+    position:absolute;
+     height:500px;
+     width: 300px;
+     left: 0px;
+     top: 0px;
+     background-color:#FAFCDB;
+     padding-top:0px;
+     margin-left: 30px;
+     padding-bottom: 20px;
+ }
+ 
+ 
+ 
+ 
