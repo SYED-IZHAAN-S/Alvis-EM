@@ -11,8 +11,9 @@ body{
     overflow-x: hidden;
 }
 header{
-    height: 86px;
-    background-color: rgba(0,0,0,0.5);
+    height: 550px;
+    background-image: url("https://www.dreamzweddingplanner.com//wp-content/uploads/2017/08/2.jpg");
+    background-color: rgba(0,0,0,0.2);
     text-align: right;
     
 }
@@ -20,11 +21,8 @@ img{
    background-size: cover;
 }
 .nav{
-    
     height: 85px;
     background-color: rgba(0,0,0,0.4);
-    
- 
 }
 
 .logo{
@@ -51,16 +49,21 @@ li{
     padding-left:45px ;
     margin-left:23px;
     font: size 25px;
-    background: #FAFCDB;
-    color:#734488;
+    color:white;
 }   
 li:hover{
-    background-color: #492645;
-    color: #fff;
+    color: #FAFCDB;
     transition: 0.5;
 }
 .book{
-    margin-right:30px;
+    background-color: #493645;
+    color: #fff;
+    margin-right:60px;
+}
+.book:hover{
+    background-color: #734488;
+    transition: 0.5;
+    color: #fff;
 }
 
 section{
