@@ -85,16 +85,9 @@ section{
     background-color: #492645;
     box-shadow: 0px 0px 15px 5px;
 }
-.rec{
-    position:absolute;
-     height:500px;
-     width: 300px;
-     left: 0px;
-     top: -503px;
-     background-color:#FAFCDB;
-     padding-top:0px;
-     margin-left: 30px;
-     padding-bottom: 20px;
+ .bg .li{
+     color: white;
+     display:block !important;
  }
  
  
