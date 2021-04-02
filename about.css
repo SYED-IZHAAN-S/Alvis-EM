@@ -1,25 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Sansita&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Sansita&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kameron&display=swap');
 
 *{
     
-    font-family: 'Sansita', sans-serif;
+    
     margin:0;
     padding:0;
     box-sizing: border-box;
+    
 }
 
-
+.bgcolor{
+    background-color: black;
+}
 
 
 header{
  
-    height:600px;
-    background-image: url("C:/Users/Shruthi/Pictures/aboutalvis.jpeg");
+    height:700px;
+    background-image: url("C:/Users/Shruthi/Downloads/blackblue.jpg");
     background-size: cover;
     background-color: rgba(0,0,0,0.1);
     background-blend-mode: multiply;
+    font-family: 'Sansita', sans-serif;
 }
 
 .nav{
@@ -55,9 +59,10 @@ header{
 }
 
 .logo2{
-    height: 250px;
-    margin-left: 555px;
-    margin-top: 20px;
+    height: 200px;
+    margin-left: 565px;
+    margin-top: 50px;
+    border-radius: 50%;
 }
 
 
@@ -101,14 +106,72 @@ li:hover{
 
 .evma{
         
-    color: #ffffff;
+    color: #9FEBEB;
     font-size: 80px;
     text-align: center;
     padding-left: 300px;
     padding-right: 300px;
-    padding-top: 250px;
+    padding-top: 265px;
     text-shadow:2px 2px 2px rgba(0,0,0,0.5);
+    font-family: 'Sansita', sans-serif;
       
     }
 
+.aboutus{
+    font-size: 100px;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 40px;
+    font-family: 'Kameron', serif;
+    color: #FAFCDB;
+    text-shadow:2px 2px 2px rgba(0,0,0,0.5);
+}    
+ .rect{
+     width: 1519px;
+     height: 1200px
+    
+ }
 
+ .izhaan{
+     
+     border-radius: 50%;
+     position: relative;
+     top: -1100px;
+     margin-left: 50px;
+     box-shadow: 2px 2px 5px  rgba(0, 0, 0, 0.726);
+     
+ }
+
+.izhaanp{
+    font-family:'Kameron', serif ;
+    font-size: 35px;
+    text-align: left;
+    padding-left: 400px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: -1280px;
+    color: #9febebf1;
+    text-shadow: 2px 2px 2px rgba(138, 138, 138, 0.5);
+}
+
+.varshini{
+     
+    border-radius: 50%;
+    position: relative;
+    top: 150px;
+    margin-left: 1150px;
+    box-shadow: 2px 2px 5px  rgba(0, 0, 0, 0.726);
+    
+}
+
+.varshinip{
+   font-family:'Kameron', serif ;
+   font-size: 35px;
+   text-align: left;
+   padding-right: 400px;
+   margin-right: 50px;
+   margin-left: 50px;
+   margin-top: -60px;
+   color: #9febebf1;
+   text-shadow: 2px 2px 2px rgba(138, 138, 138, 0.5);
+}
