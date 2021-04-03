@@ -9,7 +9,7 @@ body{
     background-color: rgba(0,0,0,0.0);
     background-blend-mode: multiply;
     overflow-x: hidden;
-    height:200px;
+    height:2000px;
 }
 header{
     height: 550px;
@@ -71,7 +71,7 @@ li:hover{
 }
 
 section{
-  height:1200px;   
+  height:1900px;   
  }
 .container{
      position:relative;
@@ -100,7 +100,7 @@ section{
  }
  header h1{
      height:200px;
-     
+
      color:rgb(255, 255, 255);
     font-weight: bold;
     padding-right: 500px;
