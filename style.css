@@ -9,13 +9,14 @@ body{
     background-color: rgba(0,0,0,0.0);
     background-blend-mode: multiply;
     overflow-x: hidden;
-    height:3000px;
+    height:200px;
 }
 header{
     height: 550px;
-    background-image: url("https://www.dreamzweddingplanner.com//wp-content/uploads/2017/08/2.jpg");
+    background-image: url("https://lilyofthevalleyaz.com/wp-content/themes/evp/images/sliders/event-planning-home-slide3.jpg");
     background-color: rgba(0,0,0,0.2);
     text-align: right;
+    filter: brightness(70%);
     
 }
 img{
@@ -82,7 +83,7 @@ section{
 }
 .bg{
     position: relative;
-    height: 450px;
+    height: 410px;
     width: 1400px;
     top: -503px;
     padding-bottom:20px;
@@ -98,14 +99,17 @@ section{
      font-weight: normal;
  }
  header h1{
-     color:black;
-    font-weight: normal;
+     height:200px;
+     
+     color:rgb(255, 255, 255);
+    font-weight: bold;
     padding-right: 500px;
     padding-top: 150px;
+    filter: brightness(100%);
  }
 .wed{
    color:#FAFCDB;
-   font-size: 25px;
+   font-size: 23px;
    text-align: left;
    padding-right: 650px;
    margin-top:25px;
@@ -115,27 +119,27 @@ section{
    
  }
  .wed_pic{
-     height:482px;
+     height:410px;
      width:555px;
      position:absolute;
-     bottom:90%;
+     bottom:70%;
      margin-left: 750px;
-     margin-top:-99px;
-     top: 20%;
+     margin-top:-79px;
+     top: 19%;
      background-color: #FAFCDB;
-     padding-bottom: 50px;
+     padding-bottom: 51px;
      background-repeat: no-repeat;
      box-shadow: 0px 0px 15px 5px;
     }
 .wedpic{
-    padding-top:15px;
+    padding-top:-55px;
     padding-left:28px ;
-    margin-top: 70px;
+    margin-top: 35px;
 }
 .cc{
     color:#FAFCDB;
     position:relative;
-    height:350px;
+    height:320px;
     width:1500px;
     margin-top: -460px;
 
@@ -146,26 +150,27 @@ section{
     padding-top:-100px;
     margin-top:10px;
     font-size:40px;
+    font-weight: normal;
 
 }
 .cc h4{
     text-align: left;
-    font-size: 25px;
+    font-size: 23px;
     color:#492645;
     padding-left:800px;
     padding-right:40px;
-    line-height: 0.7;
-    padding-top:35px;
+    line-height: 0.8;
+    padding-top:25px;
     
 }
 .ce_pic{
-    height:445px;
+    height:370px;
     width:555px;
     position:absolute;
     bottom:90%;
     margin-right: 750px;
-    margin-top:-135px;
-    top: 20%;
+    margin-top:-134px;
+    top: 26.38%;
     left:2.5%;
     background-color: #492645;
     padding-bottom: 70px;
@@ -175,37 +180,65 @@ section{
  
 .corp{
     background-color: #492645;
-    color:#fff;
-    height: 460px;
+    color:#FAFCDB;
+    height: 415px;
     width:1400px;
-    padding-top:20px;
+    padding-top:5px;
     padding-left:50px;
 }
 .corp h1{
     font-size: 40px;
     font-weight: normal;
     padding-top:25px;
-    padding-left:80px
+    padding-left:190px
     
 }
 .corp h4{
     font-weight:normal;
-    font-size:25px;
-    line-height: 1.8;
+    font-size:23px;
+    line-height: 1.7;
     padding-top:5px;
-    padding-left:150px;
+    padding-left:200px;
 }
 .corp_pic{
-    height:500px;
+    height:412px;
     width:555px;
     position:absolute;
-    bottom:90%;
+    bottom:40%;
     margin-left: 700px;
     margin-top:110px;
-    top: 20%;
+    top: 15.5%;
     background-color: #FAFCDB;
     padding-bottom: 50px;
     background-repeat: no-repeat;
     box-shadow: 0px 0px 15px 5px black;
    }
- 
+.corp_picture{
+  padding-left: 27px;
+  padding-top: 35px;
+   }
+.social h1{
+    color:#492645;
+    font-size:40px;
+    margin-top: 25px;
+    padding-left:690px;
+}
+
+.social h4{
+    color:#492645;
+    padding-left:730px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+.social_pic{
+    background-color: #492645;
+    height:370px;
+    width:555px;
+    padding-top:40px;
+    position:absolute;
+    top:63.3%;
+    box-shadow: 0px 0px 15px 5px black;
+    padding-left:39px;
+    margin-left:-11px;
+
+}
