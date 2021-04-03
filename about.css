@@ -118,13 +118,13 @@ li:hover{
     }
 
 .aboutus{
-    font-size: 100px;
+    font-size: 60px;
     text-align: center;
     opacity: 0.9;
-    margin-top: 40px;
+    margin-top: 70px;
     font-family: 'Kameron', serif;
     color: #FAFCDB;
-    text-shadow:2px 2px 2px rgba(0,0,0,0.5);
+    
 }    
  .rect{
      width: 1519px;
@@ -136,21 +136,22 @@ li:hover{
      
      border-radius: 50%;
      position: relative;
-     top: -1100px;
-     margin-left: 50px;
+     top: -1080px;
+     margin-left: 150px;
      box-shadow: 2px 2px 5px  rgba(0, 0, 0, 0.726);
      
  }
 
 .izhaanp{
-    font-family:'Kameron', serif ;
-    font-size: 35px;
+    font-family: 'Sansita', sans-serif;
+    font-size: 20px;
     text-align: left;
-    padding-left: 400px;
+    padding-left: 430px;
+    padding-right: 70px;
     margin-right: 50px;
     margin-left: 50px;
-    margin-top: -1280px;
-    color: #9febebf1;
+    margin-top: -1300px;
+    color:#fafcdbe8;
     text-shadow: 2px 2px 2px rgba(138, 138, 138, 0.5);
 }
 
@@ -158,20 +159,72 @@ li:hover{
      
     border-radius: 50%;
     position: relative;
-    top: 150px;
-    margin-left: 1150px;
+    top: 170px;
+    margin-left: 1120px;
     box-shadow: 2px 2px 5px  rgba(0, 0, 0, 0.726);
     
 }
 
 .varshinip{
-   font-family:'Kameron', serif ;
-   font-size: 35px;
+   font-family: 'Sansita', sans-serif;
+   font-size: 20px;
    text-align: left;
-   padding-right: 400px;
+   padding-right: 430px;
+   padding-left: 100px;
    margin-right: 50px;
    margin-left: 50px;
-   margin-top: -60px;
-   color: #9febebf1;
+   margin-top: -70px;
+   color:#fafcdbf6;
    text-shadow: 2px 2px 2px rgba(138, 138, 138, 0.5);
 }
+
+.mtpp{
+    font-family: 'Sansita', sans-serif;
+    text-align: center;
+    margin-top: -1020px;
+    font-size: 40px;
+    color:#9febebe3;
+    box-shadow: 2px 2px 5px  rgba(0, 0, 0, 0.726);
+    font-weight: lighter;
+}
+
+.shreenithi{
+     
+    border-radius: 50%;
+    position: relative;
+    top: 160px;
+    margin-left: 150px;
+    box-shadow: 2px 2px 5px  rgba(0, 0, 0, 0.726);
+    
+}
+
+.shreenithip{
+    font-family: 'Sansita', sans-serif;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 430px;
+    padding-right: 70px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: -40px;
+    padding-top: -300px;
+    color:#fafcdbe8;
+    text-shadow: 2px 2px 2px rgba(138, 138, 138, 0.5);
+}
+
+
+
+.aboutp{
+    text-align:center;
+    font-size: 25px;
+    padding-left: 140px;
+    padding-right: 140px;
+    color: #734488;
+    font-family: 'Sansita', sans-serif;
+    padding-bottom: 50px;
+}
+.abtsha{
+    text-shadow:2px 2px 2px rgba(0,0,0,0.5);
+    
+}
+

@@ -16,10 +16,10 @@
 header{
     
    
-    height:600px;
+    height:640px;
     background-image: url("https://wallpaperaccess.com/full/1393321.png");
     background-size: cover;
-    background-color: rgba(0,0,0,0.1);
+    background-color: rgba(0,0,0,0.2);
     background-blend-mode: multiply;
 
 }
@@ -108,7 +108,7 @@ li:hover{
     text-align: center;
     padding-left: 300px;
     padding-right: 300px;
-    padding-top: 40px;
+    padding-top: 80px;
     text-shadow:2px 2px 2px rgba(0,0,0,0.5);
   
 }
