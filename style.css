@@ -19,6 +19,19 @@ header{
     text-align: right;
     
 }
+
+
+a:link{
+
+    text-decoration: none;
+}
+
+a:hover{
+
+    text-decoration: none;
+}
+
+
 img{
    background-size: cover;
 }

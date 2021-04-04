@@ -30,6 +30,17 @@ header{
     background-color: rgba(0,0,0,0.4);
  
 }
+
+a:link{
+
+    text-decoration: none;
+}
+
+a:hover{
+
+    text-decoration: none;
+}
+
 .top{
 
     
@@ -85,7 +96,7 @@ li:hover{
     
     color:white;
     margin-right: 180px;
-    background-color: #492645;
+    background-color:#734488;
     box-shadow: 4px 4px 10px 0px rgb(0, 0, 0,0.9);
    
 
