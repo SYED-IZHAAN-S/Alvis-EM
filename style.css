@@ -20,19 +20,6 @@ header{
     
     
 }
-
-
-a:link{
-
-    text-decoration: none;
-}
-
-a:hover{
-
-    text-decoration: none;
-}
-
-
 img{
    background-size: cover;
 }
@@ -145,7 +132,7 @@ section{
  }
  .wed_pic{
      height:410px;
-     width:555px;
+     width:575px;
      position:absolute;
      bottom:70%;
      margin-left: 870px;
@@ -154,11 +141,11 @@ section{
      background-color: #FAFCDB;
      padding-bottom: 51px;
      background-repeat: no-repeat;
-     box-shadow: 0px 0px 15px 5px;
+     box-shadow: 0px 0px 25px 5px;
     }
 .wedpic{
     padding-top:-60px;
-    padding-left:28px ;
+    padding-left:35.6px ;
     margin-top: 39px;
 
 }
@@ -167,7 +154,8 @@ section{
     position:relative;
     height:350px;
     width:1525px;
-    margin-top: -510px;
+    margin-top: -513px;
+    box-shadow: 0px 0px 25px 5px black;
 
 }
 .ce{
@@ -192,7 +180,7 @@ section{
 }
 .ce_pic{
     height:350px;
-    width:555px;
+    width:500px;
     position:absolute;
     bottom:90%;
     margin-right: 750px;
@@ -207,8 +195,8 @@ section{
   .pic{
       position:absolute;
       left:3.5%;
-       padding-left:40px;
-       padding-top:65px;
+       padding-left:21px;
+       padding-top:32px;
        height:320px;
        width:445px;
    }
@@ -236,12 +224,12 @@ section{
     padding-left:200px;
 }
 .corp_pic{
-    height:408px;
-    width:555px;
+    height:412.5px;
+    width:579px;
     position:absolute;
     bottom:40%;
     margin-left: 810px;
-    margin-top:110px;
+    margin-top:107px;
     top: 13.7%;
     background-color: #FAFCDB;
     padding-bottom: 50px;
@@ -249,8 +237,8 @@ section{
     box-shadow: 0px 0px 15px 5px black;
    }
 .corp_picture{
-  padding-left: 27px;
-  padding-top: 36px;
+  padding-left: 38.5px;
+  padding-top: 40px;
    }
 
 .social{
@@ -262,7 +250,7 @@ section{
 .social h1{
     color:#492645;
     font-size:40px;
-    margin-top: 25px;
+    margin-top: 30px;
     padding-left:790px;
 }
 
@@ -274,12 +262,12 @@ section{
 }
 .social_pic{
     background-color: #492645;
-    height:390px;
-    width:555px;
-    margin-top:-25px;
+    height:383px;
+    width:530px;
+    margin-top:-28px;
     padding-top:40px;
     position:absolute;
-    top:63.3%;
+    top:63.6%;
     box-shadow: 0px 0px 15px 5px black;
     padding-left:39px;
     margin-left:-11px;
