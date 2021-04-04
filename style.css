@@ -144,9 +144,9 @@ section{
      box-shadow: 0px 0px 15px 5px;
     }
 .wedpic{
-    padding-top:-55px;
+    padding-top:-60px;
     padding-left:28px ;
-    margin-top: 35px;
+    margin-top: 39px;
 
 }
 .cc{
@@ -178,13 +178,13 @@ section{
     
 }
 .ce_pic{
-    height:390px;
+    height:350px;
     width:555px;
     position:absolute;
     bottom:90%;
     margin-right: 750px;
     margin-top:-134px;
-    top: 33.5%;
+    top: 38.3%;
     left:2.5%;
     background-color: #492645;
     padding-bottom: 70px;
@@ -192,8 +192,12 @@ section{
     box-shadow: 0px 0px 15px 5px #000000;
    }
   .pic{
+      position:absolute;
+      left:3.5%;
        padding-left:40px;
-       padding-top:5px;
+       padding-top:65px;
+       height:320px;
+       width:445px;
    }
  
 .corp{
@@ -219,7 +223,7 @@ section{
     padding-left:200px;
 }
 .corp_pic{
-    height:412px;
+    height:408px;
     width:555px;
     position:absolute;
     bottom:40%;
@@ -233,12 +237,13 @@ section{
    }
 .corp_picture{
   padding-left: 27px;
-  padding-top: 35px;
+  padding-top: 36px;
    }
 
 .social{
        background-color: #FAFCDB;
        height : 530px;
+       padding-left: 0px;
 }
 
 .social h1{
