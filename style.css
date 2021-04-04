@@ -13,7 +13,7 @@ body{
 }
 header{
     height: 550px;
-    /* width:1500px; */
+     width:1525px;
     background-image: url("https://lilyofthevalleyaz.com/wp-content/themes/evp/images/sliders/event-planning-home-slide3.jpg");
     background-color: rgba(0,0,0,0.2);
     text-align: right;
@@ -44,17 +44,22 @@ img{
     white-space:nowrap; 
 }
 li{ 
-    list-style: none;
-    display:inline;
-    margin-top: 19px;
-    margin-right: 45px;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 1px;
+    margin-right: 15px;
     color:white;
     padding-top: 12px;
     padding-bottom: 12px;
     padding-right: 20px;
     padding-left:20px;
-    margin-bottom: 10px;
+    margin-bottom: 1px;
     cursor:pointer;
+}
+.top ul{
+    position:absolute;
+    left:55%;
+    top:3%;
 }
 
 li:hover{
@@ -65,15 +70,16 @@ li:hover{
     background-color: #493645;
     color: #fff;
     margin-right:60px;
+    box-shadow: 4px 4px 10px 0px rgb(0, 0, 0,0.9);
 }
 .book:hover{
     background-color: #734488;
-    transition: 0.5;
+    transition: 0.5s;
     color: #fff;
 }
 
 section{
-  height:1600px; 
+  height:1700px; 
   width: 1525px; 
   background-color: #FAFCDB; 
  }
@@ -83,7 +89,8 @@ section{
      width:1500px;
      top: 500px;
      bottom: 100px;
-     padding-bottom: 100px;;
+     padding-bottom: 100px;
+     background-color: #FAFCDB
 }
 .bg{
     position: relative;
@@ -92,7 +99,7 @@ section{
     top: -505px;
     padding-bottom:20px;
     background-color: #492645;
-    box-shadow: 0px 0px 15px 5px;
+    /* box-shadow: 0px 0px 15px 5px; */
 }
  
  .container .bg h1{
@@ -102,20 +109,15 @@ section{
      padding-top: 30px;
      font-weight: normal;
  }
- .first{
-     height:200px;
-     color:rgb(255, 255, 255);
-    padding-right: 500px;
-    padding-top: 150px;
-    font-weight:normal;
- }
+
  .second{
-    height:200px;    
-    color:rgb(255, 255, 255);
+   height:200px;    
+   color:#9FEBEB;
+   font-size:80px;
    font-weight: normal;
-   padding-right: 450px;
-   padding-top: 5px;
-   font-weight:normal;
+   padding-right: 210px;
+   padding-top: 150px;
+   text-shadow:2px 2px 2px rgba(0,0,0,0.8);
  }
 
  
@@ -152,18 +154,18 @@ section{
 .cc{
     background-color:#FAFCDB;
     position:relative;
-    height:350px;
+    height:410px;
     width:1525px;
     margin-top: -513px;
-    box-shadow: 0px 0px 25px 5px black;
+    /* box-shadow: 0px 0px 25px 5px black; */
 
 }
 .ce{
     color:#492645;
     padding-left:865px;
-    padding-top:5px;
+    padding-top:15px;
     /* padding-bottom:; */
-    margin-top:10px;
+    margin-top:11px;
     font-size:40px;
     font-weight: normal;
 
@@ -179,13 +181,13 @@ section{
     
 }
 .ce_pic{
-    height:350px;
-    width:500px;
+    height:414px;
+    width:525px;
     position:absolute;
     bottom:90%;
     margin-right: 750px;
     margin-top:-134px;
-    top: 38.3%;
+    top: 32%;
     left:2.5%;
     background-color: #492645;
     padding-bottom: 70px;
@@ -194,11 +196,13 @@ section{
    }
   .pic{
       position:absolute;
-      left:3.5%;
-       padding-left:21px;
-       padding-top:32px;
-       height:320px;
-       width:445px;
+      left:17px;
+      top:8.5%;
+      height:340px;
+      width:470px;
+     padding-left:21px;
+       
+       
    }
  
 .corp{
@@ -230,7 +234,7 @@ section{
     bottom:40%;
     margin-left: 810px;
     margin-top:107px;
-    top: 13.7%;
+    top: 19.3%;
     background-color: #FAFCDB;
     padding-bottom: 50px;
     background-repeat: no-repeat;
@@ -243,7 +247,7 @@ section{
 
 .social{
        background-color: #FAFCDB;
-       height : 530px;
+       height : 400px;
        padding-left: 0px;
 }
 
@@ -258,16 +262,16 @@ section{
     color:#492645;
     padding-left:820px;
     font-weight: bold;
-    line-height: 1.7;
+    line-height: 1.65;
 }
 .social_pic{
     background-color: #492645;
-    height:383px;
+    height:385px;
     width:530px;
     margin-top:-28px;
     padding-top:40px;
     position:absolute;
-    top:63.6%;
+    top:68.8%;
     box-shadow: 0px 0px 15px 5px black;
     padding-left:39px;
     margin-left:-11px;
@@ -287,7 +291,7 @@ section{
     width:620px;
     position:relative;
     bottom:40px;
-    left:39px;
+    left:38px;
     box-shadow: 0px 0px 30px 0px ;
     border: 2px solid  #734488;
 } 
