@@ -18,6 +18,7 @@ header{
     background-color: rgba(0,0,0,0.2);
     text-align: right;
     
+    
 }
 
 
@@ -85,8 +86,9 @@ li:hover{
 }
 
 section{
-  height:1620px; 
-  width: 1500px;  
+  height:1600px; 
+  width: 1525px; 
+  background-color: #FAFCDB; 
  }
 .container{
      position:relative;
@@ -99,7 +101,7 @@ section{
 .bg{
     position: relative;
     height: 410px;
-    width: 1500px;
+    width: 1525px;
     top: -505px;
     padding-bottom:20px;
     background-color: #492645;
@@ -113,15 +115,23 @@ section{
      padding-top: 30px;
      font-weight: normal;
  }
- header h1{
+ .first{
      height:200px;
-
      color:rgb(255, 255, 255);
-    font-weight: bold;
     padding-right: 500px;
     padding-top: 150px;
-    filter: brightness(100%);
+    font-weight:normal;
  }
+ .second{
+    height:200px;    
+    color:rgb(255, 255, 255);
+   font-weight: normal;
+   padding-right: 450px;
+   padding-top: 5px;
+   font-weight:normal;
+ }
+
+ 
 .wed{
    color:#FAFCDB;
    font-size: 23px;
@@ -150,12 +160,13 @@ section{
     padding-top:-55px;
     padding-left:28px ;
     margin-top: 35px;
+
 }
 .cc{
     background-color:#FAFCDB;
     position:relative;
     height:350px;
-    width:1500px;
+    width:1525px;
     margin-top: -510px;
 
 }
@@ -202,7 +213,7 @@ section{
     background-color: #492645;
     color:#FAFCDB;
     height: 415px;
-    width:1500px;
+    width: 1525px;
     padding-top:5px;
     padding-left:50px;
 }
@@ -258,7 +269,7 @@ section{
 }
 .social_pic{
     background-color: #492645;
-    height:550px;
+    height:390px;
     width:555px;
     margin-top:-25px;
     padding-top:40px;
@@ -273,7 +284,7 @@ section{
     position: relative;
     z-index: 1;
     height:250px;
-    width:1500px;
+    width:1525px;
     background-color:#492645 ;
     box-shadow: 0px 0px 20px 10px;
 }
