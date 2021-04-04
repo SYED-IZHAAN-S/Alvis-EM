@@ -26,6 +26,18 @@ header{
     font-family: 'Sansita', sans-serif;
 }
 
+
+a:link{
+
+    text-decoration: none;
+}
+
+a:hover{
+
+    text-decoration: none;
+}
+
+
 .nav{
     
     height: 85px;

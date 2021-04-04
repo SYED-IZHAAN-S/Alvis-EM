@@ -1,0 +1,349 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Sansita&display=swap');
+
+*{
+    
+    font-family: 'Sansita', sans-serif;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header{
+    
+   
+    height:720px;
+    background-image: url("https://www.theabbeyresort.com/i/SITE_180405_13585860_V8VQ1/content/CMS_04052018_140401833_UANKE/27AA5011-9AB6-C793-7B5B8538C05C01BF.JPG");
+    background-size: cover;
+
+}
+
+
+a:link{
+
+    text-decoration: none;
+}
+
+a:hover{
+
+    text-decoration: none;
+}
+
+
+.nav{
+    
+    height: 85px;
+    background-color: rgba(0,0,0,0.4);
+ 
+}
+.top{
+
+    
+   
+    width:900px;
+    text-align: right;
+    float:right;
+    
+   
+}
+
+.logo{
+     
+    float: left;
+    width:200px;
+
+
+    margin-left: 180px;
+   
+}
+
+
+.logo1{
+     
+     
+     height:79px;
+  
+}
+
+
+li{
+    
+    display: inline-block;
+    font-size: large;
+    margin-top: 19px;
+    margin-right: 15px;
+    color:white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 20px;
+    padding-left:20px;
+    margin-bottom: 10px;
+}
+
+li:hover{
+
+       color:#FAFCDB;
+       transition: 0.5s;
+
+}
+
+
+
+.book{
+    
+    color:white;
+    margin-right: 180px;
+    background-color: #492645;
+    box-shadow: 4px 4px 10px 0px rgb(0, 0, 0,0.9);
+   
+
+
+
+}
+
+.book:hover{
+    
+    color:white;
+    background-color:#734488;
+    box-shadow: 4px 4px 10px 0px rgb(0, 0, 0,0.9);
+    transition: 0.5s;
+}
+
+.headtxt{
+    
+    color: #9FEBEB;
+    font-size: 100px;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 120px;
+    text-shadow:2px 2px 2px rgba(0,0,0,0.5);
+  
+}
+
+.back{
+    position: relative;
+    background-color: #492645;
+    height:500px;
+    box-shadow: 0px 0px 18px 8px;
+    border: 1px solid #492645;
+    top:0px;
+    
+}
+
+
+.box{
+
+     background-color: rgba(250, 252, 219,0.8) ;
+     height:780px;
+     width:1200px;
+     margin-left: 155px;
+     position: relative;
+     color:black;
+     bottom: 100px;
+     border: 2px solid #734488;
+     
+     box-shadow: 0px 0px 20px 0px ;
+     
+}
+
+.boxhead{
+    
+    position: relative;
+    margin-top: -1px;
+    margin-left:-1px;
+    padding-top: 6px;
+    text-align: center;
+    padding-left: 27px;
+    width:1198px;
+    background-color:rgb(159, 235, 235,.7);
+    height: 99px;
+    margin-bottom: 00px;
+    box-shadow: 0px 0px 15px 0px black;
+    border: 1px solid #734488;
+    border-bottom: 1px solid #734488;;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+    font-size: 40px;
+
+
+}
+
+
+.end1{
+
+    height:600px;
+    z-index:-1;
+
+    background-image: url("https://www.quicqo.com/blog/wp-content/uploads/2018/09/BT_APR2017_1067-1920x1080.jpg");
+    background-size: cover;
+    position: relative;
+    
+
+
+ 
+}
+
+.end2{
+
+    height:600px;
+    z-index:-1;
+    bottom: 0px;
+    background-image: url("https://handydallaireevents.com/wp-content/uploads/2019/08/Summer-Groove-2019-Gallery-Cover-1920x1100.jpg");
+    background-size: cover;
+    position: relative;
+ 
+}
+
+.end3{
+
+    height:600px;
+    z-index:-1;
+    bottom: 0px;
+    background-image: url("https://images.pexels.com/photos/5778903/pexels-photo-5778903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    position: relative;
+ 
+}
+
+
+
+
+
+
+
+.submitbutton{
+
+    z-index: 1;
+    font-size: 18px;
+    color: white;
+    border: 0px solid #734488;
+    position: relative;
+    top: 25px;
+    left:500px;
+    height: 50px;
+    width: 200px;
+    background-color: #492645;
+    box-shadow: 4px 4px 10px 0px rgb(75, 74, 74,0.8);
+    margin-top: 0px;
+
+}
+
+
+
+.submitbutton:hover{
+ 
+
+    border: 1px solid #734488;
+    position: relative;
+    top: 25px;
+    left:500px;
+    height: 50px;
+    width: 200px;
+    background-color: #9FEBEB;
+    box-shadow: 4px 4px 10px 0px rgb(75, 74, 74,0.8);
+    transition: 0.5s;  
+    margin-top: 0px;
+
+
+}
+
+
+.end4{
+
+    height:600px;
+    z-index:-1;
+    bottom: 0px;
+    background-image: url("https://images.unsplash.com/photo-1511578314322-379afb476865?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+    background-size: cover;
+    position: relative;
+ 
+}
+
+.gallery{
+
+   
+      width:1030px;
+      height:550px;
+      background-color: aqua;
+      margin-left: 80px;
+      margin-bottom: 0px;
+      margin-top: 30px;
+
+
+}
+
+.img1{
+    
+    z-index: 0;
+    position: relative;
+    top: 20px;
+    height: 250px;
+    width: 350px;
+    background-image: url('https://www.arjunkarthaphotography.com/wp-content/uploads/2016/11/online-wedding-photography-course-cover-1.jpg');
+    background-size: cover;
+    color: transparent;
+}
+
+.img1:hover{
+    
+    padding-top: 70px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    height: 250px;
+    width: 350px;
+    background-image: url('https://www.arjunkarthaphotography.com/wp-content/uploads/2016/11/online-wedding-photography-course-cover-1.jpg');
+    background-size: cover;
+    background-color: rgb(94, 94, 94);
+    background-blend-mode: multiply;
+    visibility: visible;
+    color: white;
+}
+
+
+
+h1{
+   
+    
+   padding-bottom: 70px;
+
+}
+
+
+button{
+
+
+    background-color: transparent;
+    border: 0px solid white;
+
+
+}
+
+
+
+
+.foot{
+    
+    position: relative;
+    z-index: 1;
+    height:250px;
+    background-color:#492645 ;
+    box-shadow: 0px 0px 20px 10px;
+    
+
+}
+
+.contactlst{
+
+    background-color: #9FEBEB;
+    height:250px;
+    width:620px;
+    position:relative;
+    bottom:40px;
+    left:40px;
+    box-shadow: 0px 0px 30px 0px ;
+    border: 2px solid  #734488;
+
+}

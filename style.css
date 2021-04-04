@@ -20,6 +20,19 @@ header{
     
     
 }
+
+
+a:link{
+
+    text-decoration: none;
+}
+
+a:hover{
+
+    text-decoration: none;
+}
+
+
 img{
    background-size: cover;
 }
