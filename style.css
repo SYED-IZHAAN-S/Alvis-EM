@@ -45,16 +45,15 @@ img{
 }
 li{ 
     display: inline-block;
-    font-size: 18px;
-    margin-top: 1px;
+    font-size: large;
+    margin-top: 19px;
     margin-right: 15px;
     color:white;
     padding-top: 12px;
     padding-bottom: 12px;
     padding-right: 20px;
     padding-left:20px;
-    margin-bottom: 1px;
-    cursor:pointer;
+    margin-bottom: 10px;
 }
 .top ul{
     position:absolute;
