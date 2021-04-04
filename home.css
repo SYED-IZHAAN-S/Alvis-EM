@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kameron&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+
+.bgcolor{
+    background-color: black;
+}
+
+
+header{
+ 
+    height:700px;
+    background-image: url("C:/Users/Shruthi/Downloads/blackblue.jpg");
+    background-size: cover;
+    background-color: rgba(0,0,0,0.1);
+    background-blend-mode: multiply;
+    font-family: 'Sansita', sans-serif;
+}
+
+.nav{
+    
+    height: 85px;
+    background-color: rgba(0,0,0,0.4);
+ 
+}
+.top{
+
+    
+   
+    width:900px;
+    text-align: right;
+    float:right;
+    
+   
+}
+
+.logo{
+     
+    float: left;
+    width:200px;
+    margin-left: 80px;
+   
+}
+
+
+.logo1{
+     
+     margin-left: 80px;
+     height:79px;
+}
+
+.logo2{
+    height: 200px;
+    margin-left: 565px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+
+
+li{
+    
+    display: inline-block;
+    font-size: large;
+    margin-top: 19px;
+    margin-right: 15px;
+    color:white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 20px;
+    padding-left:20px;
+    margin-bottom: 10px;
+}
+
+li:hover{
+
+       color:#FAFCDB;
+       
+
+}
+
+.book{
+    
+    color:white;
+    margin-right: 180px;
+    background-color: #492645;
+    box-shadow: 5px 5px 5px rgb(43, 41, 41);
+
+
+
+}
+
+.book:hover{
+    
+    color:white;
+    background-color:#734488;
+}

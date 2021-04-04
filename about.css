@@ -121,7 +121,7 @@ li:hover{
     font-size: 60px;
     text-align: center;
     opacity: 0.9;
-    margin-top: 70px;
+    margin-top: 10px;
     font-family: 'Kameron', serif;
     color: #FAFCDB;
     
@@ -149,9 +149,9 @@ li:hover{
     font-size: 25px;
     padding-left: 140px;
     padding-right: 140px;
-    color: #734488;
+    color: #ffffff;
     font-family: 'Sansita', sans-serif;
-    padding-bottom: 50px;
+    padding-top: 360px;
 }
 .abtsha{
     text-shadow:2px 2px 2px rgba(0,0,0,0.5);
@@ -291,20 +291,44 @@ li:hover{
     text-decoration-line: underline;
 }
 
+
+.foot{
+    
+    position: relative;
+    z-index: 1;
+    height:250px;
+    background-color:#492645 ;
+    box-shadow: 0px 0px 20px 10px;
+    
+
+}
+
 .contactlst{
 
     background-color: rgba(158, 235, 235, 0.8);
     height:250px;
     width:620px;
     position:relative;
-    top:-295px;
+    bottom:40px;
     left:40px;
     box-shadow: 0px 0px 30px 0px ;
     border: 2px solid  #734488;
-    padding-bottom: -100px;
+
 }
 
-.rect3{
+.rect0{
     width: 1519px;
-    height:270px; 
+    height: 400px;
+    margin-top: 0px;
+        
+}
+
+.aboutus,.abtsha,.aboutp{
+    margin-top: -360px;
+}
+
+.patch{
+    width: 1519px;
+    height: 100px;
+    
 }
