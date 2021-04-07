@@ -1228,7 +1228,7 @@ button{
   left:120px;
   height: 190px;
   width: 607px;
-  background-color: brow;
+  background-color: transparent;
   font-size: larger;
   color: #FAFCDB;
   border-right: 2px solid #9FEBEB;
@@ -1251,3 +1251,4 @@ button{
     color: #FAFCDB;
 
 }
+
