@@ -1,20 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Sansita&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Kameron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita&display=swap');
 
 *{
+    
+
     margin:0;
     padding:0;
     box-sizing: border-box;
-    
+    font-family: 'Sansita', sans-serif;
 }
-
-.bgcolor{
-    background-color: black;
-}
-
 
 header{
+<<<<<<< HEAD
  
     height:1000px;
     width: 100%;
@@ -24,6 +22,14 @@ header{
     background-color: rgba(0,0,0,0.1);
     background-blend-mode: multiply;
     font-family: 'Sansita', sans-serif;
+=======
+    
+   
+    height:720px;
+    background-image: url("https://www.theabbeyresort.com/i/SITE_180405_13585860_V8VQ1/content/CMS_04052018_140401833_UANKE/27AA5011-9AB6-C793-7B5B8538C05C01BF.JPG");
+    background-size: cover;
+
+>>>>>>> fe5263be5563e2772a573ba2b2b01b844479495b
 }
 
 
@@ -59,22 +65,18 @@ a:hover{
      
     float: left;
     width:200px;
-    margin-left: 80px;
+
+
+    margin-left: 180px;
    
 }
 
 
 .logo1{
      
-     margin-left: 80px;
+     
      height:79px;
-}
-
-.logo2{
-    height: 200px;
-    margin-left: 565px;
-    margin-top: 50px;
-    border-radius: 50%;
+  
 }
 
 
@@ -95,16 +97,19 @@ li{
 li:hover{
 
        color:#FAFCDB;
-       
+       transition: 0.5s;
 
 }
+
+
 
 .book{
     
     color:white;
     margin-right: 180px;
     background-color: #492645;
-    box-shadow: 5px 5px 5px rgb(43, 41, 41);
+    box-shadow: 4px 4px 10px 0px rgb(0, 0, 0,0.9);
+   
 
 
 
@@ -114,4 +119,18 @@ li:hover{
     
     color:white;
     background-color:#734488;
+    box-shadow: 4px 4px 10px 0px rgb(0, 0, 0,0.9);
+    transition: 0.5s;
+}
+
+.headtxt{
+    
+    color: #9FEBEB;
+    font-size: 100px;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 120px;
+    text-shadow:2px 2px 2px rgba(0,0,0,0.5);
+  
 }
