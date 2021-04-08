@@ -1,24 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Sansita&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Kameron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita&display=swap');
 
 *{
+    
+
     margin:0;
     padding:0;
     box-sizing: border-box;
-    
+    font-family: 'Sansita', sans-serif;
 }
-
-.bgcolor{
-    background-color: black;
-}
-
 
 header{
  
-    height:900px;
-    background-image: url("");
-    background-size: cover;
+
+
+    height:1000px;
+    width: 100%;
+    background-image: url("https://www.dreamzkraft.com/admin/decorImage/5d95a7c9b6ad4__Decor_Done.jpg");
+    background-position: top;
+    background-size: cover;    
+
     background-color: rgba(0,0,0,0.1);
     background-blend-mode: multiply;
     font-family: 'Sansita', sans-serif;
@@ -57,22 +59,18 @@ a:hover{
      
     float: left;
     width:200px;
-    margin-left: 80px;
+
+
+    margin-left: 180px;
    
 }
 
 
 .logo1{
      
-     margin-left: 80px;
+     
      height:79px;
-}
-
-.logo2{
-    height: 200px;
-    margin-left: 565px;
-    margin-top: 50px;
-    border-radius: 50%;
+  
 }
 
 
@@ -93,16 +91,19 @@ li{
 li:hover{
 
        color:#FAFCDB;
-       
+       transition: 0.5s;
 
 }
+
+
 
 .book{
     
     color:white;
     margin-right: 180px;
     background-color: #492645;
-    box-shadow: 5px 5px 5px rgb(43, 41, 41);
+    box-shadow: 4px 4px 10px 0px rgb(0, 0, 0,0.9);
+   
 
 
 
@@ -112,4 +113,18 @@ li:hover{
     
     color:white;
     background-color:#734488;
+    box-shadow: 4px 4px 10px 0px rgb(0, 0, 0,0.9);
+    transition: 0.5s;
+}
+
+.headtxt{
+    
+    color: #9FEBEB;
+    font-size: 100px;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 120px;
+    text-shadow:2px 2px 2px rgba(0,0,0,0.5);
+  
 }
