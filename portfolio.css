@@ -1197,11 +1197,13 @@ button{
 .logo3{
 
 
-           height: 80px;
+    top: 5px;
+           height: 76px;
            position: relative;
-           left: 620px;
+           left: 650px;
 
 }
+
 
 
 
@@ -1224,7 +1226,7 @@ button{
 .contactus{
 
   position: relative;
-  top: 100px;
+  top:100px;
   left:120px;
   height: 190px;
   width: 607px;
@@ -1232,7 +1234,7 @@ button{
   font-size: larger;
   color: #FAFCDB;
   border-right: 2px solid #9FEBEB;
-  padding-top: 40px;
+  padding-top: 30px;
 }
 
 
@@ -1252,3 +1254,34 @@ button{
 
 }
 
+svg{
+
+    margin-top: 30px;
+    margin-right: 22px;
+}
+
+svg:hover{
+
+
+     stroke: #FAFCDB;
+}
+
+.svg{
+
+    margin-top: 43px;
+   position: relative;
+   top:5.5px;
+   left:15px;
+
+}
+
+.svg:hover{
+
+    margin-top: 43px;
+    position: relative;
+    top:5.5px;
+    left:15px;
+    stroke: #9FEBEB;
+
+
+}
