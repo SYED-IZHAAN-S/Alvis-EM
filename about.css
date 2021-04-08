@@ -8,11 +8,8 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
-    font-family: 'Sansita', sans-serif;
-<<<<<<< HEAD
     
-=======
->>>>>>> fe5263be5563e2772a573ba2b2b01b844479495b
+    
 }
 
 .bgcolor{
@@ -27,11 +24,8 @@ header{
     background-size: cover;
     background-color: rgba(0,0,0,0.1);
     background-blend-mode: multiply;
-<<<<<<< HEAD
+    font-family: 'Sansita', sans-serif;
     
-=======
-
->>>>>>> fe5263be5563e2772a573ba2b2b01b844479495b
 }
 
 

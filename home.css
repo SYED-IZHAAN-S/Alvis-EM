@@ -12,7 +12,6 @@
 }
 
 header{
-<<<<<<< HEAD
  
     height:1000px;
     width: 100%;
@@ -22,14 +21,6 @@ header{
     background-color: rgba(0,0,0,0.1);
     background-blend-mode: multiply;
     font-family: 'Sansita', sans-serif;
-=======
-    
-   
-    height:720px;
-    background-image: url("https://www.theabbeyresort.com/i/SITE_180405_13585860_V8VQ1/content/CMS_04052018_140401833_UANKE/27AA5011-9AB6-C793-7B5B8538C05C01BF.JPG");
-    background-size: cover;
-
->>>>>>> fe5263be5563e2772a573ba2b2b01b844479495b
 }
 
 
