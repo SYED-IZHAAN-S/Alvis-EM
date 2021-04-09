@@ -43,7 +43,7 @@ a:hover{
 .logo{
 
     height: 79px;;
-    margin-left: 55px;
+    margin-left: 180px;
     /* margin-top: 0px;
     padding-top: 0px; */
 }
@@ -58,27 +58,29 @@ a:hover{
 li{ 
     display: inline-block;
     font-size: large;
-    margin-top: 19px;
+    margin-top: 0px;
     margin-right: 15px;
     color:white;
     padding-top: 12px;
     padding-bottom: 12px;
     padding-right: 20px;
     padding-left:20px;
-    margin-bottom: 10px;
+    position: relative;
+    right:126px;
+    bottom:10px;
 }
-.top ul{
+/* .top ul{
     position:absolute;
     left:45%;
     top:3%;
-}
+} */
 
 li:hover{
     color: #FAFCDB;
     transition: 0.5;
 }
 .book{
-    background-color: #493645;
+    background-color: #492645;
     color: #fff;
     margin-right:60px;
     box-shadow: 4px 4px 10px 0px rgb(0, 0, 0,0.9);
@@ -90,7 +92,7 @@ li:hover{
 }
 
 section{
-  height:1700px; 
+  height:1800px; 
   width: 1525px; 
   background-color: #FAFCDB; 
  }
@@ -260,6 +262,7 @@ section{
        background-color: #FAFCDB;
        height : 400px;
        padding-left: 0px;
+       margin-bottom: 200px;
 }
 
 .social h1{
@@ -288,21 +291,120 @@ section{
     margin-left:-11px;
 
 }
-.end{
+
+.foot{
+    
     position: relative;
     z-index: 1;
-    height:250px;
-    width:1525px;
-    background-color:#492645 ;
+    height:350px;
+    background-color:#734488 ;
     box-shadow: 0px 0px 20px 10px;
+    border-top: 2px solid  #FAFCDB;
+
 }
- .blue{ 
-    background-color: rgba(158, 235, 235, 0.8);
-    height:250px;
-    width:620px;
+
+.contactlst{
+
+    background-color:#492645;
+    height:400px;
+    width:1430px;
     position:relative;
-    bottom:40px;
-    left:38px;
+    bottom:120px;
+    left:40px;
     box-shadow: 0px 0px 30px 0px ;
-    border: 2px solid  #734488;
-} 
+    border: 2px solid  #9FEBEB;
+
+}
+
+.logo3{
+
+
+    top: 5px;
+           height: 76px;
+           position: relative;
+           left: 650px;
+
+}
+
+
+
+
+.navitem{
+
+  float:right;
+  position: relative;
+  right:228.5px;
+  top:30px;
+ 
+
+
+}
+.fn{
+    color: #9FEBEB;
+   border-right: 1px solid #9FEBEB;
+   padding-right: 40px;
+   
+}
+
+.contactus{
+
+  position: relative;
+  top:100px;
+  left:120px;
+  height: 190px;
+  width: 607px;
+  background-color: transparent;
+  font-size: larger;
+  color: #FAFCDB;
+  border-right: 2px solid #9FEBEB;
+  padding-top: 30px;
+}
+
+
+
+.socialmda{
+
+  
+    position: relative;
+    bottom: 100px;
+    left: 800px;
+    padding-top: 40px;
+    height: 200px;
+    width: 300px;
+    background-color: brow;
+    font-size: larger;
+    color: #FAFCDB;
+
+}
+
+svg{
+
+    margin-top: 30px;
+    margin-right: 22px;
+}
+
+svg:hover{
+
+
+     stroke: #FAFCDB;
+}
+
+.svg{
+
+    margin-top: 43px;
+   position: relative;
+   top:5.5px;
+   left:15px;
+
+}
+
+.svg:hover{
+
+    margin-top: 43px;
+    position: relative;
+    top:5.5px;
+    left:15px;
+    stroke: #9FEBEB;
+
+
+}
