@@ -134,17 +134,17 @@ li:hover{
     }
 
 .aboutus{
-    font-size: 60px;
-    text-align: center;
-    opacity: 0.9;
-    margin-top: 10px;
-    font-family: 'Sansita', sans-serif;
-    /* font-family: 'Kameron', serif; */
-    color: white;
-    text-shadow: 3px 3px 3px  #734488;
-  
-    
-}    
+        font-size: 60px;
+        text-align: center;
+        opacity: 0.9;
+        margin-top: 10px;
+        font-family: 'Sansita', sans-serif;
+        /* font-family: 'Kameron', serif; */
+        color: white;
+        text-shadow: 3px 3px 3px  #734488;
+      
+        
+}  
 
 
 
@@ -180,14 +180,12 @@ li:hover{
     text-shadow: 3px 3px 5px  black;
     
 }
-
 .flrbg{
     height: 1450px;
     width: 1519px;
     margin-top: 800px;
  
 }
-
 .rect{
     width: 1519px;
     height: 1170px;
@@ -305,7 +303,7 @@ li:hover{
     font-family: 'Sansita', sans-serif;
     font-size: 55px;
     text-align: center;
-    margin-top: -1080px;
+    margin-top: -950px;
     text-decoration:underline;
     text-shadow:2px 2px 2px rgba(0,0,0,0.7);
 }
@@ -448,4 +446,9 @@ li:hover{
     stroke: #9FEBEB;
 
 
+}
+
+.meet, .content , .rect , .rect1 , .rect2{
+    position: relative;
+    bottom: 150px;
 }
