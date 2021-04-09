@@ -92,7 +92,11 @@ li:hover{
 }
 
 section{
+<<<<<<< HEAD
   height:1750px; 
+=======
+  height:1800px; 
+>>>>>>> f93e9498bf239935aa874cc64f65fba77b2b7fa4
   width: 1525px; 
   background-color: #FAFCDB; 
  }
@@ -262,6 +266,7 @@ section{
        background-color: #FAFCDB;
        height : 400px;
        padding-left: 0px;
+       margin-bottom: 200px;
 }
 
 .social h1{
@@ -332,7 +337,8 @@ section{
 
   float:right;
   position: relative;
-  right:355px;
+  right:228.5px;
+  top:30px;
  
 
 
