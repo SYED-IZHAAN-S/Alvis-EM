@@ -17,18 +17,15 @@ header{
 
     height:1000px;
     width: 100%;
-    background-image: url("https://s3-eu-west-3.amazonaws.com/venicefirst/wp-content/uploads/2017/08/25133301/NS28714.jpg");
+    background-image: url("homeimg.jpeg");
     background-position: top;
     background-size: cover;    
     background-color: rgba(0,0,0,0.1);
     background-blend-mode: multiply;
     font-family: 'Sansita', sans-serif;
+
 }
-.bg{
-    height:900px;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-}
+
 
 
 a:link{
