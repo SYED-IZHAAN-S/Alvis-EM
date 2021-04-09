@@ -310,9 +310,118 @@ section{
 } 
 
 
+.foot{
+    
+    position: relative;
+    z-index: 1;
+    height:350px;
+    background-color:#734488 ;
+    box-shadow: 0px 0px 20px 10px;
+    border-top: 2px solid  #FAFCDB;
+
+}
+
+.contactlst{
+
+    background-color:#492645;
+    height:400px;
+    width:1430px;
+    position:relative;
+    bottom:120px;
+    left:40px;
+    box-shadow: 0px 0px 30px 0px ;
+    border: 2px solid  #9FEBEB;
+
+}
+
+.logo3{
+
+
+    top: 5px;
+           height: 76px;
+           position: relative;
+           left: 650px;
+
+}
+
+
+
+
+.navitem{
+
+  float:right;
+  position: relative;
+  right:355px;
+ 
+
+
+}
+.fn{
+    color: #9FEBEB;
+   border-right: 1px solid #9FEBEB;
+   padding-right: 40px;
+   
+}
+
+.contactus{
+
+  position: relative;
+  top:100px;
+  left:120px;
+  height: 190px;
+  width: 607px;
+  background-color: transparent;
+  font-size: larger;
+  color: #FAFCDB;
+  border-right: 2px solid #9FEBEB;
+  padding-top: 30px;
+}
+
+
+
+.socialmda{
+
+  
+    position: relative;
+    bottom: 100px;
+    left: 800px;
+    padding-top: 40px;
+    height: 200px;
+    width: 300px;
+    background-color: brow;
+    font-size: larger;
+    color: #FAFCDB;
+
+}
+
+svg{
+
+    margin-top: 30px;
+    margin-right: 22px;
+}
+
+svg:hover{
+
+
+     stroke: #FAFCDB;
+}
+
+.svg{
+
+    margin-top: 43px;
+   position: relative;
+   top:5.5px;
+   left:15px;
+
+}
+
 .svg:hover{
 
-   stroke: #9FEBEB;
-   margin-right: 0px;
+    margin-top: 43px;
+    position: relative;
+    top:5.5px;
+    left:15px;
+    stroke: #9FEBEB;
+
 
 }
