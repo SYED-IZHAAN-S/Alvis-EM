@@ -17,11 +17,7 @@ header{
 
     height:1000px;
     width: 100%;
-<<<<<<< HEAD
-    background-image: url("homebg.jpg");
-=======
     background-image: url("https://s3-eu-west-3.amazonaws.com/venicefirst/wp-content/uploads/2017/08/25133301/NS28714.jpg");
->>>>>>> 25d464e4d60ba90f3ebd8f6dfa3ac3097f0d93d9
     background-position: top;
     background-size: cover;    
     background-color: rgba(0,0,0,0.1);

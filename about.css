@@ -75,8 +75,10 @@ a:hover{
 .logo2{
     height: 200px;
     margin-left: 565px;
-    margin-top: 50px;
+    margin-top: 75px;
     border-radius: 50%;
+    position: relative;
+    right: 82px;
 }
 
 
@@ -121,12 +123,12 @@ li:hover{
 .evma{
         
     color: #9FEBEB;
-    font-size: 80px;
+    font-size: 110px;
     text-align: center;
     padding-left: 300px;
     padding-right: 300px;
-    padding-top: 265px;
-    text-shadow:2px 2px 2px rgba(0,0,0,0.5);
+    padding-top: 305px;
+    text-shadow:2px 2px 3px rgba(0,0,0,0.7);
     font-family: 'Sansita', sans-serif;
       
     }
@@ -136,8 +138,11 @@ li:hover{
     text-align: center;
     opacity: 0.9;
     margin-top: 10px;
-    font-family: 'Kameron', serif;
-    color: #FAFCDB;
+    font-family: 'Sansita', sans-serif;
+    /* font-family: 'Kameron', serif; */
+    color: white;
+    text-shadow: 3px 3px 3px  #734488;
+  
     
 }    
 
@@ -165,15 +170,19 @@ li:hover{
     padding-right: 140px;
     color: #ffffff;
     font-family: 'Sansita', sans-serif;
-    padding-top: 360px;
+    padding-top: 382px;
 }
 .abtsha{
-    text-shadow:2px 2px 2px rgba(0,0,0,0.5);
+    color: #FAFCDB;
+    font-family: 'Sansita', sans-serif;
+    position: relative;
+    bottom:35px;
+    text-shadow: 3px 3px 5px  black;
     
 }
 
 .flrbg{
-    height: 1250px;
+    height: 1450px;
     width: 1519px;
     margin-top: 800px;
  
@@ -292,13 +301,13 @@ li:hover{
 }
 
 .meet{
-    color:#734488;
+    color:#9FEBEB;
     font-family: 'Sansita', sans-serif;
-    font-size: 40px;
+    font-size: 55px;
     text-align: center;
-    margin-top: -1070px;
-    text-decoration: underline;
-    text-shadow: rgb(43, 43, 43);
+    margin-top: -1080px;
+    text-decoration:underline;
+    text-shadow:2px 2px 2px rgba(0,0,0,0.7);
 }
 
 .span{
