@@ -15,7 +15,7 @@ header{
  
 
 
-    height:1000px;
+    height:700px;
     width: 100%;
     background-image: url("homeimg.jpeg");
     background-position: top;
@@ -48,7 +48,8 @@ a:hover{
 .top{
 
     
-   
+   position: relative;
+   right:17px;
     width:900px;
     text-align: right;
     float:right;
