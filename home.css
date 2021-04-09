@@ -14,7 +14,7 @@ header{
  
     height:700px;
     width: 100%;
-    background-image: url("homeimg.jpeg");
+    background-image: url("homeimgalvis.jpg");
     background-position: top;
     background-size: cover;    
     background-color: rgba(0,0,0,0.1);
@@ -129,7 +129,7 @@ li:hover{
 
 .back{
 
-    margin-top: px;
+    
     background-color: #492645;
     height:750px;
     box-shadow: 0px 0px 18px 10px;
@@ -230,12 +230,14 @@ font-size: 22px;
 
 }
 
-.end1{
+.end{
 
-    height:400px;
+    height:550px;
     z-index:-1;
-
-    background-image: url("blackblue.jpg");
+    text-align: center;
+    padding-top: 235px;
+    
+    background-image: url("img3.jpg");
     background-size: cover;
     position: relative;
 
@@ -243,3 +245,247 @@ font-size: 22px;
 
  
 }
+  
+.txt{
+    color: #9FEBEB;
+}
+.back{
+
+    margin-top: px;
+    background-color: #492645;
+    height:750px;
+    box-shadow: 0px 0px 18px 10px;
+    padding-top: 70px;
+    padding-left: 85px;
+    padding-right: 800px;
+    font-size:xxx-large;
+    border: 1px solid #492645;
+    
+}
+
+
+
+
+
+.intext1{
+    position: relative;
+
+    left:-40px;
+    color: white;
+    text-shadow: 3px 3px 3px  #734488;
+    font-size: 23px;
+    padding-top: 22px;
+    text-align: center;
+}
+
+.holder1{
+
+     background-image: url("hold1.jpg") ;
+     height:460px;
+     width:700px;
+     left: 730px;
+     background-size: cover;
+     position: absolute;
+     color:black;
+     top: 2150px;
+     border: 2px solid #9FEBEB;
+     box-shadow: 0px 0px 30px 0px ;
+     
+}
+
+
+
+h1{
+
+  font-size: 65px;
+  margin-bottom: 45px;
+  color: #FAFCDB;
+  text-shadow: 3px 3px 5px  black;
+}
+
+h3{
+
+
+    margin-bottom: 65px;
+    text-shadow: 3px 3px 5px  black;
+
+}
+.p{
+
+font-size: 22px;
+
+}
+
+.seemore1{
+
+    font-size: 18px;
+    color: #734488;
+    border: 2px solid #734488;
+    position: relative;
+    top: 60px;
+    left:160px;
+    height: 55px;
+    width: 205px;
+    background-color: #FAFCDB;
+    box-shadow: 0px 0px 15px 0px rgba(0,0,0);
+
+
+}
+
+
+
+.seemore1:hover{
+ 
+    color: white;
+    border: 1px solid #734488;
+    position: relative;
+    bottom:8px;
+    left:160px;
+    height: 55px;
+    width: 205px;
+    background-color: #9FEBEB;
+    box-shadow: 4px 4px 10px 0px rgb(75, 74, 74,0.8);
+    transition: 0.5s;  
+    
+
+
+}
+
+.end1{
+
+    height:550px;
+    z-index:-1;
+
+    background-image: url("img1.jpg");
+    background-size: cover;
+    position: relative;
+
+    bottom:0px;
+
+ 
+}
+
+
+
+
+
+
+.back{
+
+    
+    background-color: #492645;
+    height:750px;
+    box-shadow: 0px 0px 18px 10px;
+    padding-top: 70px;
+    padding-left: 85px;
+    padding-right: 800px;
+    font-size:xxx-large;
+    border: 1px solid #492645;
+    
+}
+
+
+
+
+
+.intext2{
+    position: relative;
+
+    left:750px;
+    color: white;
+    text-shadow: 3px 3px 3px  #734488;
+    font-size: 23px;
+    padding-top: 22px;
+    text-align: center;
+}
+
+.holder2{
+
+     background-image: url("http://www.simrancaterers.in/assets/img/home/corpo.jpg") ;
+     height:460px;
+     width:700px;
+     float: left;
+    background-size: cover;
+     position: absolute;
+     color:black;
+     top: 850px;
+     border: 2px solid #9FEBEB;
+     
+     box-shadow: 0px 0px 30px 0px ;
+     
+}
+
+
+
+h1{
+
+  font-size: 65px;
+  margin-bottom: 45px;
+  color: #FAFCDB;
+  text-shadow: 3px 3px 5px  black;
+}
+
+h3{
+
+
+    margin-bottom: 65px;
+    text-shadow: 3px 3px 5px  black;
+
+}
+.p{
+
+font-size: 22px;
+
+}
+
+.seemore2{
+
+    font-size: 18px;
+    color: #734488;
+    border: 2px solid #734488;
+    position: relative;
+    top: 60px;
+    left:960px;
+    height: 55px;
+    width: 205px;
+    background-color: #FAFCDB;
+    box-shadow: 0px 0px 15px 0px rgba(0,0,0);
+
+
+}
+
+
+
+.seemore2:hover{
+ 
+    color: white;
+    border: 1px solid #734488;
+    position: relative;
+    bottom:8px;
+    left:960px;
+    height: 55px;
+    width: 205px;
+    background-color: #9FEBEB;
+    box-shadow: 4px 4px 10px 0px rgb(75, 74, 74,0.8);
+    transition: 0.5s;  
+    
+
+
+}
+
+.end2{
+
+    height:550px;
+    z-index:-1;
+    text-align: center;
+    padding-top: 235px;
+    
+    background-image: url("img3.jpg");
+    background-size: cover;
+    position: relative;
+
+    bottom:0px;
+
+ 
+}
+ 
