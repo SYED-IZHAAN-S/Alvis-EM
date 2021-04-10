@@ -124,6 +124,7 @@ li:hover{
 .headtxt{
     z-index: 1;
     position: absolute;
+    top:100px;
     color: #9FEBEB;
     font-size: 100px;
     text-align: center;
