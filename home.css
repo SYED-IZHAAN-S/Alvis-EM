@@ -8,6 +8,13 @@
     padding:0;
     box-sizing: border-box;
     font-family: 'Sansita', sans-serif;
+    
+}
+
+html{
+  
+    overflow-x: hidden;
+
 }
 
 header{
@@ -19,7 +26,7 @@ header{
     
     background-blend-mode: multiply;
     font-family: 'Sansita', sans-serif;
-
+  
 }
 
 
@@ -262,16 +269,31 @@ max-height:700px;
     z-index:-1;
     text-align: center;
     padding-top: 235px;
-    
-    background-image: url("img3.jpg");
+  
+    background-image: url("http://davidtutera.com/wp-content/uploads/2020/10/Dinner-with-David-r8.jpg");
     background-size: cover;
     position: relative;
-
+  
     bottom:0px;
 
  
 }
+
+.headtxt2{
+    z-index: 1;
+    position: relative;
+    bottom:240px;
+    color: #9FEBEB;
+    font-size: 100px;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 120px;
+    text-shadow:2px 2px 2px rgba(0,0,0,0.5);
   
+}
+
+
 .txt{
     color: #9FEBEB;
 }
@@ -307,7 +329,7 @@ max-height:700px;
 
 .holder1{
 
-     background-image: url("hold1.jpg") ;
+     background-image: url("http://davidtutera.com/wp-content/uploads/2018/11/i-JxMGMNP-XL-1.jpg") ;
      height:460px;
      width:700px;
      left: 730px;
@@ -512,12 +534,27 @@ font-size: 22px;
     padding-top: 235px;
     
     background-image: url("bkdp.jpg");
+    
     background-size: cover;
     position: relative;
 
     bottom:0px;
 
  
+}
+
+.headtxt1{
+    z-index: 1;
+    position: relative;
+    bottom:180px;
+    color: #9FEBEB;
+    font-size: 100px;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 120px;
+    text-shadow:2px 2px 2px rgba(0,0,0,0.5);
+  
 }
 
 .connectwithus{
@@ -587,11 +624,146 @@ box-shadow: 0px 0px 18px 10px ;
 .getupdates{
 
 position: relative;
-height:500px;
+height:700px;
 z-index: -1;
 background-image: url("reception-decor.jpg");
 background-size: cover;
-background-color: #492645;
+background-color: rgb(115, 68, 136, 0.3);
 box-shadow: 0px 0px 18px 10px ;
+background-blend-mode: multiply;
+
+}
+
+.gu{
+
+color: #9FEBEB;
+position: relative;
+top:250px;
+left: 400px ;
+
+
+}
+
+
+
+.foot{
+    
+    position: relative;
+    z-index: 1;
+    height:350px;
+    background-color:#734488 ;
+    box-shadow: 0px 0px 20px 10px;
+    border-top: 2px solid  #FAFCDB;
+
+}
+
+.contactlst{
+
+    background-color:#492645;
+    height:400px;
+    width:1430px;
+    position:relative;
+    bottom:120px;
+    left:40px;
+    box-shadow: 0px 0px 30px 0px ;
+    border: 2px solid  #9FEBEB;
+
+}
+
+.logo3{
+
+
+    top: 5px;
+           height: 76px;
+           position: relative;
+           left: 650px;
+
+}
+
+
+.navitem{
+
+  float:right;
+  position: relative;
+  right:355px;
+
+
+
+
+}
+.fn{
+    color: #9FEBEB;
+   border-right: 1px solid #9FEBEB;
+   padding-right: 40px;
+   
+}
+
+.contactus{
+
+  position: relative;
+  top:100px;
+  left:120px;
+  height: 190px;
+  width: 607px;
+  background-color: transparent;
+  font-size: larger;
+  color: #FAFCDB;
+  border-right: 2px solid #9FEBEB;
+  padding-top: 30px;
+}
+
+
+
+.socialmda{
+
+  
+    position: relative;
+    bottom: 100px;
+    left: 800px;
+    padding-top: 40px;
+    height: 200px;
+    width: 300px;
+    background-color: brow;
+    font-size: larger;
+    color: #FAFCDB;
+
+}
+
+svg{
+
+    margin-top: 27px;
+    margin-right: 22px;
+}
+
+svg:hover{
+
+
+     stroke: #FAFCDB;
+}
+
+.svg{
+
+    margin-top: 39px;
+   position: relative;
+   top:5.5px;
+   left:15px;
+
+}
+
+.svg:hover{
+
+    margin-top: 39px;
+    position: relative;
+    top:5.5px;
+    left:15px;
+    stroke: #9FEBEB;
+
+
+}
+
+.t{
+
+  position: relative;
+  top:27px;
 
 }
