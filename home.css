@@ -230,6 +230,18 @@ font-size: 22px;
 
 }
 
+.carouselslide{
+
+position: relative;
+z-index: -1;
+
+
+}
+
+
+
+
+
 .end{
 
     height:550px;
@@ -364,6 +376,7 @@ font-size: 22px;
 
  
 }
+
 
 
 
