@@ -402,10 +402,10 @@ font-size: 22px;
 
 .end1{
 
-    height:550px;
+    height:650px;
     z-index:-1;
 
-    background-image: url("img1.jpg");
+    background-image: url("end1.png");
     background-size: cover;
     position: relative;
 
@@ -786,12 +786,14 @@ svg:hover{
 }
 
 .rect1, .rect2, .rect3 , .rect4{
-    height: 460px;
-    padding-top: 40px;
+    height: 560px;
+    padding-top: 200px;
 }
 
+
+
 .p1{
-    margin-top: -280px;
+    margin-top: -320px;
     padding-left: 100px;
     padding-right: 1200px;
     text-align: center;
@@ -801,22 +803,32 @@ svg:hover{
     padding-left: 80px ;
 }
 
-.p1{
-    margin-top: -280px;
-    padding-left: 100px;
-    padding-right: 1200px;
+.p2{
+    margin-top: -300px;
+    padding-left: 460px;
+    padding-right: 830px;
+    text-align: center;
+   
+}
+
+.p3{
+    margin-top: -300px;
+    padding-left: 830px;
+    padding-right: 480px;
     text-align: center;
 }
 
 .b1{
     padding-left: 80px ;
-}.p2{
+}
+
+.p4{
     margin-top: -280px;
-    padding-left: 500px;
-    padding-right: 800px;
+    padding-left: 1185px;
+    padding-right: 85px;
     text-align: center;
 }
 
-.b2{
-    padding-left: 80px ;
+.break{
+    padding-top: 20px;
 }
