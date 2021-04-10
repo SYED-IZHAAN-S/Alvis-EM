@@ -209,7 +209,7 @@ font-size: 22px;
     color: #734488;
     border: 2px solid #734488;
     position: relative;
-    top: 10px;
+    top: 5px;
     left:960px;
     height: 55px;
     width: 205px;
@@ -349,7 +349,7 @@ font-size: 22px;
     color: #734488;
     border: 2px solid #734488;
     position: relative;
-    top: 60px;
+    top: 40px;
     left:160px;
     height: 55px;
     width: 205px;
@@ -428,14 +428,14 @@ font-size: 22px;
 
 .holder2{
 
-     background-image: url("http://www.simrancaterers.in/assets/img/home/corpo.jpg") ;
+     background-image: url("vrevent.jpg") ;
      height:460px;
      width:700px;
      float: left;
     background-size: cover;
-     position: absolute;
+     position: relative;
      color:black;
-     top: 850px;
+     top: -460px;
      border: 2px solid #9FEBEB;
      
      box-shadow: 0px 0px 30px 0px ;
@@ -471,7 +471,7 @@ font-size: 22px;
     color: #734488;
     border: 2px solid #734488;
     position: relative;
-    top: 60px;
+    top: -450px;
     left:960px;
     height: 55px;
     width: 205px;
