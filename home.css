@@ -170,7 +170,7 @@ li:hover{
      height:460px;
      width:700px;
      float: left;
-    background-size: cover;
+     background-size: cover;
      position: absolute;
      color:black;
      top: 850px;
@@ -209,7 +209,7 @@ font-size: 22px;
     color: #734488;
     border: 2px solid #734488;
     position: relative;
-    top: 60px;
+    top: 10px;
     left:960px;
     height: 55px;
     width: 205px;
