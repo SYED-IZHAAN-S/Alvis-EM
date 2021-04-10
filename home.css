@@ -405,7 +405,7 @@ font-size: 22px;
     height:550px;
     z-index:-1;
 
-    background-image: url("end1.png");
+    background-image: url("img1.jpg");
     background-size: cover;
     position: relative;
 
@@ -533,9 +533,8 @@ font-size: 22px;
     text-align: center;
     padding-top: 235px;
     
-    background-image: url("end2.jpg");
-    background-color: rgb(0, 0, 0,0.2);
-    background-blend-mode: multiply;
+    background-image: url("bkdp.jpg");
+    
     background-size: cover;
     position: relative;
 
@@ -768,6 +767,3 @@ svg:hover{
   top:27px;
 
 }
-
-
-
