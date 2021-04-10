@@ -394,16 +394,37 @@ font-size: 22px;
 
 .end1{
 
+<<<<<<< HEAD
     height:400px;
+=======
+    height:650px;
+>>>>>>> 9e85ec6e26a52a88987439c6311c7b42628a54be
     z-index:-1;
 
-    background-image: url("img1.jpg");
+    background-image: url("end1.png");
     background-size: cover;
     position: relative;
 
     bottom:0px;
 }
 
+<<<<<<< HEAD
+=======
+.para{
+
+
+text-align: center;
+color: #9FEBEB;
+position: relative;
+top:70px;
+
+}
+
+
+
+
+
+>>>>>>> 9e85ec6e26a52a88987439c6311c7b42628a54be
 .back{
 
     
@@ -770,12 +791,14 @@ svg:hover{
 }
 
 .rect1, .rect2, .rect3 , .rect4{
-    height: 460px;
-    padding-top: 40px;
+    height: 430px;
+    padding-top:70px;
 }
 
+
+
 .p1{
-    margin-top: -280px;
+    margin-top: -320px;
     padding-left: 100px;
     padding-right: 1200px;
     text-align: center;
@@ -783,4 +806,34 @@ svg:hover{
 
 .b1{
     padding-left: 80px ;
+}
+
+.p2{
+    margin-top: -300px;
+    padding-left: 460px;
+    padding-right: 830px;
+    text-align: center;
+   
+}
+
+.p3{
+    margin-top: -300px;
+    padding-left: 830px;
+    padding-right: 480px;
+    text-align: center;
+}
+
+.b1{
+    padding-left: 80px ;
+}
+
+.p4{
+    margin-top: -280px;
+    padding-left: 1185px;
+    padding-right: 85px;
+    text-align: center;
+}
+
+.break{
+    padding-top: 20px;
 }
