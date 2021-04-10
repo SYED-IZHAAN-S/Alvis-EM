@@ -795,3 +795,23 @@ svg:hover{
 .b1{
     padding-left: 80px ;
 }
+
+.p1{
+    margin-top: -280px;
+    padding-left: 100px;
+    padding-right: 1200px;
+    text-align: center;
+}
+
+.b1{
+    padding-left: 80px ;
+}.p2{
+    margin-top: -280px;
+    padding-left: 500px;
+    padding-right: 800px;
+    text-align: center;
+}
+
+.b2{
+    padding-left: 80px ;
+}
