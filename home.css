@@ -394,11 +394,7 @@ font-size: 22px;
 
 .end1{
 
-<<<<<<< HEAD
-    height:400px;
-=======
     height:650px;
->>>>>>> 9e85ec6e26a52a88987439c6311c7b42628a54be
     z-index:-1;
 
     background-image: url("end1.png");
@@ -408,8 +404,6 @@ font-size: 22px;
     bottom:0px;
 }
 
-<<<<<<< HEAD
-=======
 .para{
 
 
@@ -424,7 +418,6 @@ top:70px;
 
 
 
->>>>>>> 9e85ec6e26a52a88987439c6311c7b42628a54be
 .back{
 
     
