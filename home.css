@@ -394,7 +394,7 @@ font-size: 22px;
 
 .end1{
 
-    height:650px;
+    height:400px;
     z-index:-1;
 
     background-image: url("end1.png");
@@ -403,20 +403,6 @@ font-size: 22px;
 
     bottom:0px;
 }
-
-.para{
-
-
-text-align: center;
-color: #9FEBEB;
-position: relative;
-top:70px;
-
-}
-
-
-
-
 
 .back{
 
