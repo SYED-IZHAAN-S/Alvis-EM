@@ -20,10 +20,11 @@ html{
 header{
  
     height:700px;
-  
+    width: 100%;
+    background-image: url("homeimg.jpeg");
     background-position: top;
     background-size: cover;    
-    
+    background-color: rgba(0,0,0,0.1);
     background-blend-mode: multiply;
     font-family: 'Sansita', sans-serif;
   
@@ -44,22 +45,19 @@ a:hover{
 
 .nav{
 
-    position: absolute;
-    z-index: 1;
     height: 85px;
     background-color: rgba(0,0,0,0.4);
-    width: 100%;
+ 
 }
 .top{
 
     
-    position: relative;
-    z-index: 1;
-    width:700px;
+
+    width:900px;
     text-align: right;
     float:right;
-    margin-left: 274px;
-    margin-top: -2px;
+    
+   
 }
 
 .logo{
@@ -82,7 +80,7 @@ a:hover{
 
 
 li{
-    z-index: 1;
+    
     display: inline-block;
     font-size: large;
     margin-top: 19px;
@@ -96,7 +94,7 @@ li{
 }
 
 li:hover{
-    z-index: 1;
+
        color:#FAFCDB;
        transition: 0.5s;
 
@@ -107,11 +105,7 @@ li:hover{
 .book{
     
     color:white;
-
-    z-index: 1;
-    padding-top:10px;
-    padding-bottom: 9px;
-
+    margin-right: 180px;
     background-color: #492645;
     box-shadow: 4px 4px 10px 0px rgb(0, 0, 0,0.9);
    
@@ -121,7 +115,7 @@ li:hover{
 }
 
 .book:hover{
-    z-index: 1;
+    
     color:white;
     background-color:#734488;
     box-shadow: 4px 4px 10px 0px rgb(0, 0, 0,0.9);
@@ -129,9 +123,7 @@ li:hover{
 }
 
 .headtxt{
-    z-index: 1;
-    position: absolute;
-    top:100px;
+    
     color: #9FEBEB;
     font-size: 100px;
     text-align: center;
@@ -144,7 +136,7 @@ li:hover{
 
 .back{
 
-    
+    margin-top: px;
     background-color: #492645;
     height:750px;
     box-shadow: 0px 0px 18px 10px;
@@ -177,7 +169,7 @@ li:hover{
      height:460px;
      width:700px;
      float: left;
-     background-size: cover;
+    background-size: cover;
      position: absolute;
      color:black;
      top: 850px;
@@ -216,7 +208,7 @@ font-size: 22px;
     color: #734488;
     border: 2px solid #734488;
     position: relative;
-    top: 5px;
+    top: 60px;
     left:960px;
     height: 55px;
     width: 205px;
@@ -402,7 +394,7 @@ font-size: 22px;
 
 .end1{
 
-    height:650px;
+    height:400px;
     z-index:-1;
 
     background-image: url("end1.png");
@@ -410,23 +402,7 @@ font-size: 22px;
     position: relative;
 
     bottom:0px;
-
- 
 }
-
-.para{
-
-
-text-align: center;
-color: #9FEBEB;
-position: relative;
-top:70px;
-
-}
-
-
-
-
 
 .back{
 
@@ -548,7 +524,6 @@ font-size: 22px;
     background-size: cover;
     position: relative;
 
-    bottom:0px;
 
  
 }
